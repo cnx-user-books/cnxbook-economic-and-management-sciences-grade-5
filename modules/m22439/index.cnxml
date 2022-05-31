@@ -1,0 +1,370 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Responsibility and business</title>
+  <metadata>
+  <md:content-id>m22439</md:content-id><md:title>Responsibility and business</md:title>
+  <md:abstract/>
+  <md:uuid>f458b804-c414-4d54-a91b-fbd6784f501b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8833452">
+      <title>ECONOMIC AND MANAGEMENT SCIENCES</title>
+      <para id="para-id8833452">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3525514">
+      <title>Grade 5</title>
+      <para id="para-id3525514">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8395318">
+      <title>MY BANK AND I</title>
+      <para id="para-id8395318">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3641350">
+      <title>Module 8</title>
+      <para id="para-id3641350">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4349730">
+      <title>RESPONSIBILITY AND BUSINESS</title>
+      <para id="para-id4349730">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8917782">
+      <title>A. MY MONEY - MY RESPONSIBILITY:</title>
+      <para id="id7594013">A bank is simply the agent that keeps your money safe and performs transactions as requested by a client. It remains your responsibility to manage your money.</para>
+      <para id="id3781308">When you open an account at a bank, the bank will send you a monthly bank statement to inform you of what you did with your money during the previous month and what your balance was at the end of that month.</para>
+      <para id="id5686799">With the help of your friend, study the following bank statement and decide whether Mr De Klerk has managed his money responsibly.</para>
+      <para id="id6065639"/>
+      <para id="id3765170"/>
+      <para id="id7537039">H DE KLERK SA BANK</para>
+      <para id="id5883026">5 GREEN STREET  CAPE TOWN</para>
+      <para id="id7511098">CAPE TOWN ACCOUNT NUMBER: 777756</para>
+      <para id="id6810715">8001</para>
+      <para id="id6810720">PRESENT BALANCE  : 2 056,11</para>
+      <para id="id5861339">STATEMENT FOR PERIOD : 18/09/2004 – 25//09/2004</para>
+      <table id="id7762528" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>DATE</entry>
+              <entry>TRAN. DESCRIPTION</entry>
+              <entry>CHARGES</entry>
+              <entry>AMOUNT</entry>
+              <entry>BALANCE</entry>
+            </row>
+            <row>
+              <entry>180904</entry>
+              <entry>CHEQUE : 22</entry>
+              <entry/>
+              <entry/>
+              <entry>1 052,66</entry>
+            </row>
+            <row>
+              <entry>180904</entry>
+              <entry>CASH WITHDRAWAL</entry>
+              <entry>4,50</entry>
+              <entry>234,56</entry>
+              <entry>818,10</entry>
+            </row>
+            <row>
+              <entry>180904</entry>
+              <entry>DEPOSIT: CHEQUE</entry>
+              <entry>2,40</entry>
+              <entry>150,00</entry>
+              <entry>668,10</entry>
+            </row>
+            <row>
+              <entry>190904</entry>
+              <entry>DEPOSIT: CASH</entry>
+              <entry>0,59</entry>
+              <entry>278,90</entry>
+              <entry>947,00</entry>
+            </row>
+            <row>
+              <entry>190904</entry>
+              <entry>CHEQUE: 24</entry>
+              <entry>1,20</entry>
+              <entry>250,76</entry>
+              <entry>1 197,76</entry>
+            </row>
+            <row>
+              <entry>220904</entry>
+              <entry>CHEQUE: 25</entry>
+              <entry>2,80</entry>
+              <entry>166,80</entry>
+              <entry>1 030,96</entry>
+            </row>
+            <row>
+              <entry>220904</entry>
+              <entry>DEPOSIT: CHEQUE</entry>
+              <entry>1,60</entry>
+              <entry>89,99</entry>
+              <entry>940,97</entry>
+            </row>
+            <row>
+              <entry>230904</entry>
+              <entry>CASH WITHDRAWAL</entry>
+              <entry>5,80</entry>
+              <entry>1 958,60</entry>
+              <entry>2 899,57</entry>
+            </row>
+            <row>
+              <entry>230904</entry>
+              <entry>BANK CHARGES</entry>
+              <entry>5,60</entry>
+              <entry>1 000,00</entry>
+              <entry>1 899,57</entry>
+            </row>
+            <row>
+              <entry>240904</entry>
+              <entry>CHEQUE: 23</entry>
+              <entry>0,00</entry>
+              <entry>24,49</entry>
+              <entry>1 875,08</entry>
+            </row>
+            <row>
+              <entry>240904</entry>
+              <entry>ACB CREDIT</entry>
+              <entry>7,80</entry>
+              <entry>1 278,60</entry>
+              <entry>596,48</entry>
+            </row>
+            <row>
+              <entry>250904</entry>
+              <entry>CHEQUE: 26</entry>
+              <entry>0,00</entry>
+              <entry>3 500,00</entry>
+              <entry>4 096,48</entry>
+            </row>
+            <row>
+              <entry>250904</entry>
+              <entry>CASH WITHDRAWAL</entry>
+              <entry>7,80</entry>
+              <entry>1 875,99</entry>
+              <entry>2 220,49</entry>
+            </row>
+            <row>
+              <entry>250904</entry>
+              <entry>CHEQUE: 22</entry>
+              <entry>2,80</entry>
+              <entry>164,38</entry>
+              <entry>2 056,11</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7565641">END OF QUERY 25/09/2004 11:23:20</para>
+      <para id="id3744067">Have you calculated the final balance?</para>
+      <para id="id5755546">Do you think that Mr de Klerk has sufficient money in his account to buy Christmas presents?</para>
+      <para id="id7581809">Our conclusion:  </para>
+      <para id="id3631058"/>
+      <para id="id7582949"/>
+      <para id="id5842630"/>
+      <para id="id5842635">Use the following list of transactions to compile a bank statement for the month of September. Remember to subtract amounts paid out from the balance and to add amounts received.</para>
+      <table id="id7583896" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 Sept.</entry>
+              <entry>Bought toys</entry>
+              <entry>Cheque no. 66</entry>
+              <entry>R 215,99</entry>
+            </row>
+            <row>
+              <entry>3 Sept.</entry>
+              <entry>Paid for Gardening</entry>
+              <entry>Cheque no. 67</entry>
+              <entry>R 150,00</entry>
+            </row>
+            <row>
+              <entry>3 Sept.</entry>
+              <entry>Paid telephone</entry>
+              <entry>Cheque no. 68</entry>
+              <entry>R 347,56</entry>
+            </row>
+            <row>
+              <entry>4 Sept.</entry>
+              <entry>Municipality</entry>
+              <entry>Cheque no. 69</entry>
+              <entry>R 287,90</entry>
+            </row>
+            <row>
+              <entry>5 Sept.</entry>
+              <entry>Withdrew cash</entry>
+              <entry/>
+              <entry>R 500,00</entry>
+            </row>
+            <row>
+              <entry>7 Sept.</entry>
+              <entry>Petrol</entry>
+              <entry>Cheque no. 70</entry>
+              <entry>R 185,47</entry>
+            </row>
+            <row>
+              <entry>10 Sept.</entry>
+              <entry>Food</entry>
+              <entry>Cheque no. 71</entry>
+              <entry>R 1 245,67</entry>
+            </row>
+            <row>
+              <entry>15 Sept.</entry>
+              <entry>Received salary</entry>
+              <entry/>
+              <entry>R 6 899,00</entry>
+            </row>
+            <row>
+              <entry>17 Sept.</entry>
+              <entry>Received gift</entry>
+              <entry/>
+              <entry>R 250,00</entry>
+            </row>
+            <row>
+              <entry>21 Sept.</entry>
+              <entry>Motor car service</entry>
+              <entry>Cheque no. 72</entry>
+              <entry>R 1 085,00</entry>
+            </row>
+            <row>
+              <entry>25 Sept.</entry>
+              <entry>Petrol</entry>
+              <entry>Cheque no. 73</entry>
+              <entry>R 165,80</entry>
+            </row>
+            <row>
+              <entry>28 Sept.</entry>
+              <entry>Children’s pocket money (cash)</entry>
+              <entry/>
+              <entry>R 170,00</entry>
+            </row>
+            <row>
+              <entry>30 Sept.</entry>
+              <entry>School fees</entry>
+              <entry>Cheque no. 74</entry>
+              <entry>R 855,00</entry>
+            </row>
+            <row>
+              <entry>30 Sept.</entry>
+              <entry>Hotel (long weekend)</entry>
+              <entry>Cheque no. 75</entry>
+              <entry>R 2 068,00</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3347066">[LO 3.4]</para>
+    </section>
+    <section id="id4145632">
+      <title>B. A Bank – A Business</title>
+      <para id="id8436817">Have you ever thought of a bank as a business?</para>
+      <para id="id5790763">A bank not only sells money, but also a service to its clients. They are in competition daily with other banks. As in any business, they have to attract the attention of potential clients.</para>
+      <para id="id3613507">The “product”, money, cannot be improved or made more attractive. Money remains money. A bank cannot suddenly decide to print money with colourful borders in order to attract the attention of young people. For that reason banks must concentrate on the other aspect, namely SERVICE. How is money made available to the client, and what is the quality of the attention a bank offers its clients?</para>
+      <list id="id3754537" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Information brochures</item>
+      </list>
+      <para id="id8398878">Most commercial banks offer a large selection of colourful brochures that explain the facilities available to their clients. There are brochures or pamphlets that tell the clients more about:</para>
+      <para id="id10725661">ATM safety</para>
+      <para id="id10725665">Credit card management</para>
+      <para id="id3476466">Advantages and nature of cheque accounts</para>
+      <para id="id6143814">How the bank can assist your business undertaking</para>
+      <para id="id4136502">How to plan and manage your own finances</para>
+      <para id="id4136507">See if you can obtain some of their brochures from your local bank.</para>
+      <list id="id10765014" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Marketing</item>
+      </list>
+      <para id="id5654286">A bank uses various strategies to market its services.</para>
+      <list id="id3512779" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>Target groups</item>
+      </list>
+      <para id="id4272831">A bank divides its clients into various groups according to age and interests. There are special packages available to young people and also to pre-scholars.</para>
+      <para id="id3616595">Listen to the following questions and statements made by a commercial bank:</para>
+      <para id="id3674783">Be your own banker at the age of 12!</para>
+      <para id="id5936629">Do you want to manage your own finances as a teenager?</para>
+      <para id="id5888396">Would you like to see the money grow in your savings account?</para>
+      <para id="id5840966">Ask you parents to deposit your allowance in a Mega Save Account.</para>
+      <para id="id5840971">Use your Mega Card for cash withdrawals.</para>
+      <para id="id7539473">Simply draw your card through the terminal and pay!</para>
+      <para id="id5727027">It sounds so easy – especially to a teenager!</para>
+      <para id="id3709348">Sportsmen and -women are also targets. There are cards available especially to cyclists, and one for Comrades supporters. There is a Currie Cup interest rate for vehicle financing, and many others.</para>
+      <para id="id4066649">The aged are also targeted. There are special savings plans for funerals as well as special interest rates for retired people.</para>
+      <para id="id4926322">Collect as many of these marketing pamphlets as you can. They are available at commercial banks and through the post, and also in magazines.</para>
+      <para id="id4154864">Compare them to determine if there is one bank that impresses you more than the other.</para>
+      <list id="id10492515" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>Competitions</item>
+      </list>
+      <para id="id3550910">“Use your credit card this month for purchases of R2 000,00 or more, and stand a chance to win one of the following fantastic prizes:</para>
+      <para id="id4308008">2 Mercedes C class</para>
+      <para id="id8382844">1 double first class air ticket to any destination worldwide.</para>
+      <para id="id4105495">7 days in Mauritius for two.</para>
+      <para id="id8224199"><figure id="id8224202"><media id="id8224202_media" alt=""><image mime-type="image/png" src="../../media/graphics1-985c.png" id="id8224202__onlineimage" height="221" width="394"/></media></figure>Sounds fantastic, doesn’t it! Let’s go and spend money!</para>
+      <para id="id4179036">Group work</para>
+      <para id="id8915926">Discuss in your groups why a bank encourages the use of credit cards by means of such competitions.</para>
+      <para id="id5630960">[LO 4.5]</para>
+      <list id="id3703329" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>Competition time!</item>
+      </list>
+      <para id="id5928463">Divide into groups of your own choice</para>
+      <para id="id5928466">Establish a bank of your own.</para>
+      <para id="id4177635">Decide on a name and logo for you bank.</para>
+      <para id="id4177639">Market your bank by using brochures, advertisements and posters. (You must “sell” your bank to the public.)</para>
+      <para id="id5803600">Appoint a panel of judges to choose the “best bank” in class on the strength of its marketing strategy.</para>
+      <para id="id7290679">[LO 4.5]</para>
+    </section>
+    <section id="id8823732">
+      <title>Assessment</title>
+      <para id="id3577420">LO 3 </para>
+      <para id="id3516696">Management, Consumer and Financial Knowledge and Skills</para>
+      <para id="id4340205">The learner is able to apply and demonstrate, in a responsible manner, knowledge as well as a range of management, consumer and financial skills.</para>
+      <para id="id3984046">
+        <emphasis effect="italics">We know this when the learner</emphasis>
+        <emphasis effect="italics">:</emphasis>
+      </para>
+      <para id="id3687728">3.3 finds out and discusses how a savings account is opened at a bank, and completes deposit and withdrawal slips;</para>
+      <para id="id3486966">3.4 discusses the value of savings and thrift and people’s difficulty in saving if basic needs are not met.</para>
+      <para id="id5934122">LO 4 </para>
+      <para id="id3484098">Entrepreneurial Knowledge and Skills</para>
+      <para id="id6076098">The learner will be able to demonstrate entrepreneurial knowledge, skills and attitudes.</para>
+      <para id="id8207860">
+        <emphasis effect="italics">We know this when the learner</emphasis>
+        <emphasis effect="italics">:</emphasis>
+      </para>
+      <para id="id5842226">4.5 discusses the four elements of the marketing mix in a simple business activity (product, price, place, promotion).</para>
+      <para id="id10734212"/>
+    </section>
+    <section id="id3619880">
+      <title>Memorandum</title>
+      <list id="id6807656" list-type="bulleted">
+        <item>Teacher facilitates. Note size of amounts that have been spent. Is there a balance between money received and money spent?</item>
+      </list>
+      <list id="id4075871" list-type="bulleted">
+        <item>Draw up a bank statement by using previous example.</item>
+      </list>
+      <para id="id8256994">Group work</para>
+      <list id="id10966299" list-type="bulleted">
+        <item>Interest = income for bank</item>
+      </list>
+    </section>
+  </content>
+</document>
